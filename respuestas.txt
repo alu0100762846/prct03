@@ -1,1 +1,5 @@
 Respuestas a las preguntas de la práctica 3
+1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
+Utilizar multiples ramas nos permite trabajar sin seguir la rama principal de desarrollo,
+avanzando de forma mas rápida y fácil, ya que ahorramos tiempo al no tener que copiar codigo y podemos
+avanzar o el retroceder entre distintas ramas de forma muy rápida.
