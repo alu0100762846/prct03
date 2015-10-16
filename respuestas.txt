@@ -5,5 +5,8 @@ Utilizar multiples ramas nos permite trabajar sin seguir la rama principal de de
 avanzando de forma mas rápida y fácil, ya que ahorramos tiempo al no tener que copiar codigo y podemos
 avanzar o el retroceder entre distintas ramas de forma muy rápida.
 
-
 3.- ¿Cuál es la ventaja de reorganizar (rebase)?
+
+2.- ¿Qué es una reorganizacion (rebase) ?
+
+
